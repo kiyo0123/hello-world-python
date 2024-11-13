@@ -1,7 +1,7 @@
 import requests
 
 # API URLを変数にする
-url = "https://jsonplaceholder.typicode.com/users/2"
+url = "https://jsonplaceholder.typicode.com/users/3"
 
 try:
     # APIからデータを取得
